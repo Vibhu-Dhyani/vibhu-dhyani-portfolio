@@ -21,5 +21,5 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![App Screenshot](./frontend_react/src/assets/Screenshot from 2022-08-13 11-23-22.png)
+![App Screenshot](/frontend_react/src/assets/Screenshot from 2022-08-13 11-23-22.png)
 
